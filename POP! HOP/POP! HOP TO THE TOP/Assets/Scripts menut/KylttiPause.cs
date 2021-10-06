@@ -7,7 +7,7 @@ public class KylttiPause : MonoBehaviour
 {
     AvaaKyltti kylttiRef;
 
-    public GameObject[] Paperit; 
+    
 
      public void Start()
     {
@@ -16,8 +16,9 @@ public class KylttiPause : MonoBehaviour
     }
    public void Resume()
     {
-        kylttiRef.IsoKyltti.SetActive(false);
+        kylttiRef.IsoKyltti.SetActive(false);   // Pistää Ison kyltin pois käytön jälkeen.
         Time.timeScale = 1f;
+        kylttiRef.Paperi.SetActive(false);      // Pistää kyltin pois käytön jälkeen
     }
    public void Pause()
     {

@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class AvaaKyltti : MonoBehaviour
 {
+    // Papereista pit‰‰ tehd‰ taulukko, joka m‰‰ritt‰‰, mik‰ paperi/paperit n‰ytet‰‰n kyseisen kyltin kohdalla.
+    public GameObject Paperi;
     public GameObject IsoKyltti;
 
 
@@ -35,6 +37,8 @@ public class AvaaKyltti : MonoBehaviour
         if (collision.gameObject.CompareTag("Player") && timer == 0)
         {
             KosketusOn = true;
+
+            Paperi.SetActive(true);     // Pist‰‰ kyseisen paperin n‰kyv‰ksi
 
             //KylttiPause.Pause();
             Avaus.Pause();
