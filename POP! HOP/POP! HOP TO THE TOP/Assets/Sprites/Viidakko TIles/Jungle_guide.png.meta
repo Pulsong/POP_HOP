@@ -1,0 +1,2264 @@
+fileFormatVersion: 2
+guid: 61ac4698a3b1ff94cac7674ed9b4fc35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -121355731011460941
+    second: Jungle_guide_0
+  - first:
+      213: 1910142164275359882
+    second: Jungle_guide_1
+  - first:
+      213: 3933328724609208366
+    second: Jungle_guide_2
+  - first:
+      213: 4523614930358271323
+    second: Jungle_guide_3
+  - first:
+      213: -8347771588498645785
+    second: Jungle_guide_4
+  - first:
+      213: -8143776182565846838
+    second: Jungle_guide_5
+  - first:
+      213: 524765946901313389
+    second: Jungle_guide_6
+  - first:
+      213: -6965214429156300635
+    second: Jungle_guide_7
+  - first:
+      213: -6209594142882273118
+    second: Jungle_guide_8
+  - first:
+      213: 1824452196020211011
+    second: Jungle_guide_9
+  - first:
+      213: -6519276756484070331
+    second: Jungle_guide_10
+  - first:
+      213: 6822382959480151903
+    second: Jungle_guide_11
+  - first:
+      213: -9063318697704495739
+    second: Jungle_guide_12
+  - first:
+      213: -1401981959433676985
+    second: Jungle_guide_13
+  - first:
+      213: -4991400615051697259
+    second: Jungle_guide_14
+  - first:
+      213: 2897369636523388211
+    second: Jungle_guide_15
+  - first:
+      213: -4434799473794311473
+    second: Jungle_guide_16
+  - first:
+      213: 8191066071048522085
+    second: Jungle_guide_17
+  - first:
+      213: 2567630245934007912
+    second: Jungle_guide_18
+  - first:
+      213: 5177338319133683310
+    second: Jungle_guide_19
+  - first:
+      213: -532876628506254424
+    second: Jungle_guide_20
+  - first:
+      213: 8274739712271664759
+    second: Jungle_guide_21
+  - first:
+      213: 7641048653058182336
+    second: Jungle_guide_22
+  - first:
+      213: -2272217022685481311
+    second: Jungle_guide_23
+  - first:
+      213: -4306743688742491193
+    second: Jungle_guide_24
+  - first:
+      213: -7008336020736201063
+    second: Jungle_guide_25
+  - first:
+      213: 1307886339060162379
+    second: Jungle_guide_26
+  - first:
+      213: -6220914272082373566
+    second: Jungle_guide_27
+  - first:
+      213: 602653156117279295
+    second: Jungle_guide_28
+  - first:
+      213: 497053068967985928
+    second: Jungle_guide_29
+  - first:
+      213: -65015890514927707
+    second: Jungle_guide_30
+  - first:
+      213: 2094373092779752903
+    second: Jungle_guide_31
+  - first:
+      213: 1787014025858674025
+    second: Jungle_guide_32
+  - first:
+      213: 2133744562692881345
+    second: Jungle_guide_33
+  - first:
+      213: 7754869299742462666
+    second: Jungle_guide_34
+  - first:
+      213: 2945443814746311454
+    second: Jungle_guide_35
+  - first:
+      213: -8636301485321755189
+    second: Jungle_guide_36
+  - first:
+      213: 4900188439123760046
+    second: Jungle_guide_37
+  - first:
+      213: 7449826927196775561
+    second: Jungle_guide_38
+  - first:
+      213: 8953764395266995451
+    second: Jungle_guide_39
+  - first:
+      213: 1274087711506066973
+    second: Jungle_guide_40
+  - first:
+      213: 3240431421858713920
+    second: Jungle_guide_41
+  - first:
+      213: 185629092708391060
+    second: Jungle_guide_42
+  - first:
+      213: 6469405684906388328
+    second: Jungle_guide_43
+  - first:
+      213: 3028332644696086863
+    second: Jungle_guide_44
+  - first:
+      213: 2450845351013397184
+    second: Jungle_guide_45
+  - first:
+      213: 3808916876703632983
+    second: Jungle_guide_46
+  - first:
+      213: 3474078754553931829
+    second: Jungle_guide_47
+  - first:
+      213: -2279850511472753043
+    second: Jungle_guide_48
+  - first:
+      213: -1289148415682815015
+    second: Jungle_guide_49
+  - first:
+      213: -603620665512910114
+    second: Jungle_guide_50
+  - first:
+      213: -7723880002918983194
+    second: Jungle_guide_51
+  - first:
+      213: -4178601521942857227
+    second: Jungle_guide_52
+  - first:
+      213: 5164969451537125510
+    second: Jungle_guide_53
+  - first:
+      213: -97107600940698398
+    second: Jungle_guide_54
+  - first:
+      213: 1596062524887296633
+    second: Jungle_guide_55
+  - first:
+      213: -5165790039004654210
+    second: Jungle_guide_56
+  - first:
+      213: -3325989259148022469
+    second: Jungle_guide_57
+  - first:
+      213: 7993143309159288401
+    second: Jungle_guide_58
+  - first:
+      213: 4423219752792560212
+    second: Jungle_guide_59
+  - first:
+      213: -5217755815210124651
+    second: Jungle_guide_60
+  - first:
+      213: -8021207372229687849
+    second: Jungle_guide_61
+  - first:
+      213: 4919129707694600245
+    second: Jungle_guide_62
+  - first:
+      213: -8318716254773553237
+    second: Jungle_guide_63
+  - first:
+      213: 3291329687381744201
+    second: Jungle_guide_64
+  - first:
+      213: 6072409363963263302
+    second: Jungle_guide_65
+  - first:
+      213: 6060944131175458129
+    second: Jungle_guide_66
+  - first:
+      213: -8397046890742055405
+    second: Jungle_guide_67
+  - first:
+      213: 3133818464610790178
+    second: Jungle_guide_68
+  - first:
+      213: -6482269994313562372
+    second: Jungle_guide_69
+  - first:
+      213: -810172397165381839
+    second: Jungle_guide_70
+  - first:
+      213: -4051141369125463176
+    second: Jungle_guide_71
+  - first:
+      213: -6888520804946307939
+    second: Jungle_guide_72
+  - first:
+      213: -8441233256387473721
+    second: Jungle_guide_73
+  - first:
+      213: -906026238137484954
+    second: Jungle_guide_74
+  - first:
+      213: -7291554320844577610
+    second: Jungle_guide_75
+  - first:
+      213: 1732335432940023501
+    second: Jungle_guide_76
+  - first:
+      213: 1141015411139005802
+    second: Jungle_guide_77
+  - first:
+      213: -355966207398066701
+    second: Jungle_guide_78
+  - first:
+      213: -8664521528628130334
+    second: Jungle_guide_79
+  - first:
+      213: -8712563271611943689
+    second: Jungle_guide_80
+  - first:
+      213: 1596463335060710875
+    second: Jungle_guide_81
+  - first:
+      213: -2302524447131690692
+    second: Jungle_guide_82
+  - first:
+      213: 6933730935479148103
+    second: Jungle_guide_83
+  - first:
+      213: -2259358545550970604
+    second: Jungle_guide_84
+  - first:
+      213: -782241619160117070
+    second: Jungle_guide_85
+  - first:
+      213: -4041696847735807113
+    second: Jungle_guide_86
+  - first:
+      213: -8058286902444909950
+    second: Jungle_guide_87
+  - first:
+      213: 4828070618357735715
+    second: Jungle_guide_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jungle_guide_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 480
+        width: 393
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0aa990b9bd05ef0800000000000000
+      internalID: -121355731011460941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 839
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80f0249d20328a10800000000000000
+      internalID: 1910142164275359882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 839
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e201c27a2adf59630800000000000000
+      internalID: 3933328724609208366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_3
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 821
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d78a0efcb17ce30800000000000000
+      internalID: 4523614930358271323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec9079f7f1c62c80800000000000000
+      internalID: -8347771588498645785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 815
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac040e3a5be7bfe80800000000000000
+      internalID: -8143776182565846838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 815
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67364f29d7584700800000000000000
+      internalID: 524765946901313389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 815
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8a6b54166965f90800000000000000
+      internalID: -6965214429156300635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 815
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8e722e60713d9a0800000000000000
+      internalID: -6209594142882273118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 815
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d477d1b91c15910800000000000000
+      internalID: 1824452196020211011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 815
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5446e41a450e685a0800000000000000
+      internalID: -6519276756484070331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_11
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 815
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f1e75b729fdae50800000000000000
+      internalID: 6822382959480151903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 815
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ea29f9af983280800000000000000
+      internalID: -9063318697704495739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_13
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 813
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747137ef5d82b8ce0800000000000000
+      internalID: -1401981959433676985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_14
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 815
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5936d20169bfabab0800000000000000
+      internalID: -4991400615051697259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 815
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33daaff5556853820800000000000000
+      internalID: 2897369636523388211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_16
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 815
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca966a006d6472c0800000000000000
+      internalID: -4434799473794311473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_17
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 815
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5690a9881338ca170800000000000000
+      internalID: 8191066071048522085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_18
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 815
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8660273da1e02a320800000000000000
+      internalID: 2567630245934007912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 815
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e2bf145c999d740800000000000000
+      internalID: 5177338319133683310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 804
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3e6c89787da98f0800000000000000
+      internalID: -532876628506254424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_21
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 804
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77645c64de7c5d270800000000000000
+      internalID: 8274739712271664759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_22
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 804
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc820514457a0a60800000000000000
+      internalID: 7641048653058182336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 804
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a67c3618a67770e0800000000000000
+      internalID: -2272217022685481311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_24
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 802
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb29d5ee6f5b34c0800000000000000
+      internalID: -4306743688742491193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_25
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 804
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea17955836dbe90800000000000000
+      internalID: -7008336020736201063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_26
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 804
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f544622bb862210800000000000000
+      internalID: 1307886339060162379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_27
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 804
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445f5aed6fdaa9a0800000000000000
+      internalID: -6220914272082373566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_28
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 804
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32732d3add0d5800800000000000000
+      internalID: 602653156117279295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 804
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ca5af123e5e600800000000000000
+      internalID: 497053068967985928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_30
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 661
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af1a1d5464091ff0800000000000000
+      internalID: -65015890514927707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_31
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 736
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdf54e3b35b01d10800000000000000
+      internalID: 2094373092779752903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 725
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d62fbd9cfbcc810800000000000000
+      internalID: 1787014025858674025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_33
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 608
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbfabcef559c9d10800000000000000
+      internalID: 2133744562692881345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 608
+        width: 192
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac25bb28a84de9b60800000000000000
+      internalID: 7754869299742462666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 256
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b43db3b8150e820800000000000000
+      internalID: 2945443814746311454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 288
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5e7326e81b52880800000000000000
+      internalID: -8636301485321755189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3927e4c67f00440800000000000000
+      internalID: 4900188439123760046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 391
+        width: 89
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98424b19e1a136760800000000000000
+      internalID: 7449826927196775561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 128
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4fd664749224c70800000000000000
+      internalID: 8953764395266995451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_40
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 371
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e6201f5087ea110800000000000000
+      internalID: 1274087711506066973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 374
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04117eaa53358fc20800000000000000
+      internalID: 3240431421858713920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_42
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 374
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989cd22dac739200800000000000000
+      internalID: 185629092708391060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 374
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86becbca132f7c950800000000000000
+      internalID: 6469405684906388328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 374
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4954dcde7cc60a20800000000000000
+      internalID: 3028332644696086863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 374
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c232929cd6230220800000000000000
+      internalID: 2450845351013397184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 374
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e09e608bdfbd430800000000000000
+      internalID: 3808916876703632983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 374
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382be68838663030800000000000000
+      internalID: 3474078754553931829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 372
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d668caaf9085c50e0800000000000000
+      internalID: -2279850511472753043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 286
+        width: 128
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbd77c98560c1ee0800000000000000
+      internalID: -1289148415682815015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 339
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2a40de3328f97f0800000000000000
+      internalID: -603620665512910114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_51
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 335
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9554a6f044fc490800000000000000
+      internalID: -7723880002918983194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 337
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f970b21e00a206c0800000000000000
+      internalID: -4178601521942857227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_53
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 337
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6805d9ad958ada740800000000000000
+      internalID: 5164969451537125510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_54
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 335
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e470f4c62107aef0800000000000000
+      internalID: -97107600940698398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_55
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 337
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a683bf86a562610800000000000000
+      internalID: 1596062524887296633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 337
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7550ec345d6f48b0800000000000000
+      internalID: -5165790039004654210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_57
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 335
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3da7b10466b7d1d0800000000000000
+      internalID: -3325989259148022469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eca3d7d795dee60800000000000000
+      internalID: 7993143309159288401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 276
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45211b01eee626d30800000000000000
+      internalID: 4423219752792560212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_60
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 285
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59afbad1bbec697b0800000000000000
+      internalID: -5217755815210124651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 285
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d54184a462fea090800000000000000
+      internalID: -8021207372229687849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 285
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530353f0862444440800000000000000
+      internalID: 4919129707694600245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 285
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba754f604abfd8c80800000000000000
+      internalID: -8318716254773553237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_64
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 285
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a161799e62dad20800000000000000
+      internalID: 3291329687381744201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_65
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 285
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64939cdb428854450800000000000000
+      internalID: 6072409363963263302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_66
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 285
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a336339ccc1450800000000000000
+      internalID: 6060944131175458129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 285
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e7503a752b77b80800000000000000
+      internalID: -8397046890742055405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_68
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 285
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bafa53a4f8d7b20800000000000000
+      internalID: 3133818464610790178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_69
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 285
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf644c2e8c95a06a0800000000000000
+      internalID: -6482269994313562372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_70
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 285
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137712c4f70b1c4f0800000000000000
+      internalID: -810172397165381839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_71
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 244
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b136e736477c7c0800000000000000
+      internalID: -4051141369125463176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_72
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 238
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94994923de0760a0800000000000000
+      internalID: -6888520804946307939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_73
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 240
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce8fcea317bada80800000000000000
+      internalID: -8441233256387473721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 240
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669b1aecfe52d63f0800000000000000
+      internalID: -906026238137484954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 238
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4289d3af13fca90800000000000000
+      internalID: -7291554320844577610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_76
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 240
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce6630e5ed7a0810800000000000000
+      internalID: 1732335432940023501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 240
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dcf289873b5df00800000000000000
+      internalID: 1141015411139005802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_78
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 240
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ceffce9a5f0bf0800000000000000
+      internalID: -355966207398066701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_79
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 240
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4569839f61c780800000000000000
+      internalID: -8664521528628130334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_80
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 240
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f474789dd1c61780800000000000000
+      internalID: -8712563271611943689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_81
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 240
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5aa3fd1f6c72610800000000000000
+      internalID: 1596463335060710875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_82
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391012f63acb00e0800000000000000
+      internalID: -2302524447131690692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 198
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e1f51ac8f893060800000000000000
+      internalID: 6933730935479148103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_84
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 160
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411f0389f5525a0e0800000000000000
+      internalID: -2259358545550970604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 183
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b05f61546be425f0800000000000000
+      internalID: -782241619160117070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 117
+        width: 156
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77324ec712209e7c0800000000000000
+      internalID: -4041696847735807113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_87
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 160
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9691c1c63b2090800000000000000
+      internalID: -8058286902444909950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jungle_guide_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a6bda5a0c00340800000000000000
+      internalID: 4828070618357735715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

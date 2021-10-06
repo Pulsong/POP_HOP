@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: 6afd232eb7052f04f98262227233a4e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7157154183720315662
+    second: Tileset Atlas Beach maasto_0
+  - first:
+      213: 5620360869821748504
+    second: Tileset Atlas Beach maasto_1
+  - first:
+      213: 1624141010013891344
+    second: Tileset Atlas Beach maasto_2
+  - first:
+      213: -923739487440509486
+    second: Tileset Atlas Beach maasto_3
+  - first:
+      213: -8976350277402776694
+    second: Tileset Atlas Beach maasto_4
+  - first:
+      213: -2606368005359388427
+    second: Tileset Atlas Beach maasto_5
+  - first:
+      213: 6504651971979211212
+    second: Tileset Atlas Beach maasto_6
+  - first:
+      213: -6881110648408525721
+    second: Tileset Atlas Beach maasto_7
+  - first:
+      213: -6379017488192196561
+    second: Tileset Atlas Beach maasto_8
+  - first:
+      213: 2814153277941196031
+    second: Tileset Atlas Beach maasto_9
+  - first:
+      213: -8014383837915177769
+    second: Tileset Atlas Beach maasto_10
+  - first:
+      213: -6125566471841927818
+    second: Tileset Atlas Beach maasto_11
+  - first:
+      213: 2225767848111757656
+    second: Tileset Atlas Beach maasto_12
+  - first:
+      213: -7399718219406050304
+    second: Tileset Atlas Beach maasto_13
+  - first:
+      213: -609558754585850050
+    second: Tileset Atlas Beach maasto_14
+  - first:
+      213: 7089963820336399062
+    second: Tileset Atlas Beach maasto_15
+  - first:
+      213: 2797913324690074429
+    second: Tileset Atlas Beach maasto_16
+  - first:
+      213: -1555408094339490882
+    second: Tileset Atlas Beach maasto_17
+  - first:
+      213: -5543101328711249632
+    second: Tileset Atlas Beach maasto_18
+  - first:
+      213: -4900411915311677261
+    second: Tileset Atlas Beach maasto_19
+  - first:
+      213: 6291629256234667142
+    second: Tileset Atlas Beach maasto_20
+  - first:
+      213: 2364518387111934843
+    second: Tileset Atlas Beach maasto_21
+  - first:
+      213: -4683034718320073781
+    second: Tileset Atlas Beach maasto_22
+  - first:
+      213: 8004746405963897973
+    second: Tileset Atlas Beach maasto_23
+  - first:
+      213: -3731485263997257122
+    second: Tileset Atlas Beach maasto_24
+  - first:
+      213: -3298143705534626509
+    second: Tileset Atlas Beach maasto_25
+  - first:
+      213: -2550210728607426749
+    second: Tileset Atlas Beach maasto_26
+  - first:
+      213: 9032365367081021542
+    second: Tileset Atlas Beach maasto_27
+  - first:
+      213: 152744857086347779
+    second: Tileset Atlas Beach maasto_28
+  - first:
+      213: -6332301960023890971
+    second: Tileset Atlas Beach maasto_29
+  - first:
+      213: 260826500041166374
+    second: Tileset Atlas Beach maasto_0
+  - first:
+      213: 7109323351190553700
+    second: Tileset Atlas Beach maasto_1
+  - first:
+      213: -2150162683950413622
+    second: Tileset Atlas Beach maasto_2
+  - first:
+      213: 5808147864556871157
+    second: Tileset Atlas Beach maasto_3
+  - first:
+      213: 4920196698616827395
+    second: Tileset Atlas Beach maasto_4
+  - first:
+      213: 3695754673466628579
+    second: Tileset Atlas Beach maasto_5
+  - first:
+      213: 2990153121990795294
+    second: Tileset Atlas Beach maasto_6
+  - first:
+      213: -25089666837540491
+    second: Tileset Atlas Beach maasto_7
+  - first:
+      213: 1360287057997710417
+    second: Tileset Atlas Beach maasto_8
+  - first:
+      213: 8621284061234871952
+    second: Tileset Atlas Beach maasto_9
+  - first:
+      213: -4038904593216418670
+    second: Tileset Atlas Beach maasto_10
+  - first:
+      213: -2749905316670785780
+    second: Tileset Atlas Beach maasto_11
+  - first:
+      213: 3621114726008446269
+    second: Tileset Atlas Beach maasto_12
+  - first:
+      213: 3718866200717832488
+    second: Tileset Atlas Beach maasto_13
+  - first:
+      213: -7385307859028335862
+    second: Tileset Atlas Beach maasto_14
+  - first:
+      213: 6120086881807708810
+    second: Tileset Atlas Beach maasto_15
+  - first:
+      213: 3230641297465581711
+    second: Tileset Atlas Beach maasto_16
+  - first:
+      213: 7708514078228579644
+    second: Tileset Atlas Beach maasto_17
+  - first:
+      213: -5176956258312646028
+    second: Tileset Atlas Beach maasto_18
+  - first:
+      213: -6602113913858223330
+    second: Tileset Atlas Beach maasto_19
+  - first:
+      213: 535129263651936521
+    second: Tileset Atlas Beach maasto_20
+  - first:
+      213: -2034438869332816837
+    second: Tileset Atlas Beach maasto_21
+  - first:
+      213: 542665100706512968
+    second: Tileset Atlas Beach maasto_22
+  - first:
+      213: -9137876001062514425
+    second: Tileset Atlas Beach maasto_23
+  - first:
+      213: -3692211023153360791
+    second: Tileset Atlas Beach maasto_24
+  - first:
+      213: 6530989132008937879
+    second: Tileset Atlas Beach maasto_25
+  - first:
+      213: -1666630972590337934
+    second: Tileset Atlas Beach maasto_26
+  - first:
+      213: -3766498840672310492
+    second: Tileset Atlas Beach maasto_27
+  - first:
+      213: -4227816101906683663
+    second: Tileset Atlas Beach maasto_28
+  - first:
+      213: 8855874200799373834
+    second: Tileset Atlas Beach maasto_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e46f2e154ae9300800000000000000
+      internalID: 260826500041166374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4644a1dcbe369a260800000000000000
+      internalID: 7109323351190553700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c5d55e661922e0800000000000000
+      internalID: -2150162683950413622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd1bddb5bfaa9050800000000000000
+      internalID: 5808147864556871157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0b1e34dc084440800000000000000
+      internalID: 4920196698616827395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_5
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d7f86b45f94330800000000000000
+      internalID: 3695754673466628579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_6
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 963
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1069440c682f7920800000000000000
+      internalID: 2990153121990795294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_7
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 957
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5719d98b41dd6aff0800000000000000
+      internalID: -25089666837540491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_8
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 968
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154c3844fd5b0e210800000000000000
+      internalID: 1360287057997710417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_9
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 930
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e34a91d24f4a770800000000000000
+      internalID: 8621284061234871952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 739
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c44a7ebade2f7c0800000000000000
+      internalID: -4038904593216418670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 748
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0731e12faf56d9d0800000000000000
+      internalID: -2749905316670785780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 711
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d5ba668a8c04230800000000000000
+      internalID: 3621114726008446269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_13
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 711
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8213efc2b111c9330800000000000000
+      internalID: 3718866200717832488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 694
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0327b991ad128990800000000000000
+      internalID: -7385307859028335862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_15
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 694
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a823da8e79aeee450800000000000000
+      internalID: 6120086881807708810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_16
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 812
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80a424b42b85dc20800000000000000
+      internalID: 3230641297465581711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3589e276b42afa60800000000000000
+      internalID: 7708514078228579644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4721a8536b1c728b0800000000000000
+      internalID: -5176956258312646028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1311d5ff549064a0800000000000000
+      internalID: -6602113913858223330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_20
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909d3e4ea392d6700800000000000000
+      internalID: 535129263651936521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_21
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 471
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c8b2490a834c3e0800000000000000
+      internalID: -2034438869332816837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8400d9fa80fe78700800000000000000
+      internalID: 542665100706512968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011a1b013ebf2180800000000000000
+      internalID: -9137876001062514425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_24
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 284
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9609929f2a1a2ccc0800000000000000
+      internalID: -3692211023153360791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_25
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 289
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799545d430cb2aa50800000000000000
+      internalID: 6530989132008937879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_26
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 254
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d61be5ffeed8e0800000000000000
+      internalID: -1666630972590337934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_27
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b6eca9245babbc0800000000000000
+      internalID: -3766498840672310492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ec2eb7a7c355c0800000000000000
+      internalID: -4227816101906683663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Atlas Beach maasto_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 33
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a613a4aa266ea70800000000000000
+      internalID: 8855874200799373834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

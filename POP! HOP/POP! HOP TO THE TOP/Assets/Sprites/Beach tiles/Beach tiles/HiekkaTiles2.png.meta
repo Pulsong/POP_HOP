@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 6987da11e264a7e4bae1b34fb829e282
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3027808950004693010
+    second: HiekkaTiles2_0
+  - first:
+      213: 4336000941257315183
+    second: HiekkaTiles2_1
+  - first:
+      213: -5500747038897002354
+    second: HiekkaTiles2_2
+  - first:
+      213: 320879276859194930
+    second: HiekkaTiles2_3
+  - first:
+      213: 398620897600030624
+    second: HiekkaTiles2_4
+  - first:
+      213: 4598700194762016959
+    second: HiekkaTiles2_5
+  - first:
+      213: -2234358342660446068
+    second: HiekkaTiles2_6
+  - first:
+      213: 2414778647826284843
+    second: HiekkaTiles2_7
+  - first:
+      213: 7354618129566652570
+    second: HiekkaTiles2_8
+  - first:
+      213: -1770668826909595028
+    second: HiekkaTiles2_9
+  - first:
+      213: 2510349499047016493
+    second: HiekkaTiles2_10
+  - first:
+      213: 7229347689515118612
+    second: HiekkaTiles2_11
+  - first:
+      213: 4153120897194476706
+    second: HiekkaTiles2_12
+  - first:
+      213: 1690299189092276398
+    second: HiekkaTiles2_13
+  - first:
+      213: -597757041473941142
+    second: HiekkaTiles2_14
+  - first:
+      213: -5649334407795032322
+    second: HiekkaTiles2_15
+  - first:
+      213: 552278024189958350
+    second: HiekkaTiles2_16
+  - first:
+      213: -5879898426626626306
+    second: HiekkaTiles2_17
+  - first:
+      213: -7169163060788275395
+    second: HiekkaTiles2_18
+  - first:
+      213: 1012495160905868328
+    second: HiekkaTiles2_19
+  - first:
+      213: -6668339213577013086
+    second: HiekkaTiles2_20
+  - first:
+      213: 1071231919273818278
+    second: HiekkaTiles2_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 216
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HiekkaTiles2_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 798
+        width: 216
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c83f4dcf0bf5d0800000000000000
+      internalID: -3027808950004693010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 797
+        width: 224
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d66902e19c2c30800000000000000
+      internalID: 4336000941257315183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 837
+        width: 220
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88234b56bb69a3b0800000000000000
+      internalID: -5500747038897002354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_3
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 837
+        width: 228
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ef9f0900ef37400800000000000000
+      internalID: 320879276859194930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_4
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 778
+        width: 219
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a74f79289f288500800000000000000
+      internalID: 398620897600030624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_5
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 778
+        width: 220
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb84f41567dd1df30800000000000000
+      internalID: 4598700194762016959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 546
+        width: 223
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c882bccece6fdf0e0800000000000000
+      internalID: -2234358342660446068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 538
+        width: 217
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2142ead264038120800000000000000
+      internalID: 2414778647826284843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_8
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 581
+        width: 229
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98d77fe83ad01660800000000000000
+      internalID: 7354618129566652570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_9
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 575
+        width: 221
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a223555125d67e0800000000000000
+      internalID: -1770668826909595028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_10
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 487
+        width: 217
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28f6c8a19d86d220800000000000000
+      internalID: 2510349499047016493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_11
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 483
+        width: 219
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410f65fbb6dc35460800000000000000
+      internalID: 7229347689515118612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 275
+        width: 219
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4478aa379d2a930800000000000000
+      internalID: 4153120897194476706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 278
+        width: 225
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8d9f92826257710800000000000000
+      internalID: 1690299189092276398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 279
+        width: 217
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6115f8432754b7f0800000000000000
+      internalID: -597757041473941142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_15
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 279
+        width: 224
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe3cfd99488991b0800000000000000
+      internalID: -5649334407795032322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_16
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 226
+        width: 219
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d819dfe51aa700800000000000000
+      internalID: 552278024189958350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_17
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 225
+        width: 218
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcaa85b887666ea0800000000000000
+      internalID: -5879898426626626306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 23
+        width: 225
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37dcd81e24028c90800000000000000
+      internalID: -7169163060788275395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 16
+        width: 218
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824a8920cfa1d0e00800000000000000
+      internalID: 1012495160905868328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_20
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 26
+        width: 226
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83fecc0dc4573a0800000000000000
+      internalID: -6668339213577013086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiekkaTiles2_21
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 20
+        width: 220
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8306441c7cdde00800000000000000
+      internalID: 1071231919273818278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

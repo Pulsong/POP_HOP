@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: ba1d3b6543a33fc4dae1d254cacf1f4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4764438441466482679
+    second: Tileset BEACH_0
+  - first:
+      213: -5804081599026125540
+    second: Tileset BEACH_1
+  - first:
+      213: -9103036332590897112
+    second: Tileset BEACH_2
+  - first:
+      213: -780074223310715195
+    second: Tileset BEACH_3
+  - first:
+      213: 792997878215287754
+    second: Tileset BEACH_4
+  - first:
+      213: -9144182417065557021
+    second: Tileset BEACH_5
+  - first:
+      213: 7167017895483919208
+    second: Tileset BEACH_6
+  - first:
+      213: 8076648480214138387
+    second: Tileset BEACH_7
+  - first:
+      213: -1577201838133481985
+    second: Tileset BEACH_8
+  - first:
+      213: -8229334755540218190
+    second: Tileset BEACH_9
+  - first:
+      213: 2538174380730686212
+    second: Tileset BEACH_10
+  - first:
+      213: -2545286611194229398
+    second: Tileset BEACH_11
+  - first:
+      213: 9168714509328365170
+    second: Tileset BEACH_12
+  - first:
+      213: -8308138893351501798
+    second: Tileset BEACH_13
+  - first:
+      213: -1710391086127416977
+    second: Tileset BEACH_14
+  - first:
+      213: 5474541609558843603
+    second: Tileset BEACH_15
+  - first:
+      213: 3754477242687447979
+    second: Tileset BEACH_16
+  - first:
+      213: 4814181475482298620
+    second: Tileset BEACH_17
+  - first:
+      213: 8063983374637089603
+    second: Tileset BEACH_18
+  - first:
+      213: -2847794458815218779
+    second: Tileset BEACH_19
+  - first:
+      213: 3588833874117309923
+    second: Tileset BEACH_20
+  - first:
+      213: 1964467674820110762
+    second: Tileset BEACH_21
+  - first:
+      213: -7707224017415699262
+    second: Tileset BEACH_22
+  - first:
+      213: 7658659680627312672
+    second: Tileset BEACH_23
+  - first:
+      213: 6293949458393293289
+    second: Tileset BEACH_24
+  - first:
+      213: 1250500132429795636
+    second: Tileset BEACH_25
+  - first:
+      213: 4617885820383828567
+    second: Tileset BEACH_26
+  - first:
+      213: 3473612694279056536
+    second: Tileset BEACH_27
+  - first:
+      213: 7145371317124186879
+    second: Tileset BEACH_28
+  - first:
+      213: 8394217832687705594
+    second: Tileset BEACH_29
+  - first:
+      213: -3520438428739829084
+    second: Tileset BEACH_30
+  - first:
+      213: -4090643053098075325
+    second: Tileset BEACH_31
+  - first:
+      213: 161315208673024310
+    second: Tileset BEACH_32
+  - first:
+      213: 1123735992994964224
+    second: Tileset BEACH_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 127
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset BEACH_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900bc260b7051edb0800000000000000
+      internalID: -4764438441466482679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 918
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15aaaa7982c37fa0800000000000000
+      internalID: -5804081599026125540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828e17a7fa48ba180800000000000000
+      internalID: -9103036332590897112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6402d70ae9c25f0800000000000000
+      internalID: -780074223310715195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac329a66e5b410b00800000000000000
+      internalID: 792997878215287754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 924
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e34f652a86591180800000000000000
+      internalID: -9144182417065557021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_6
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 963
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bcf2fadcc567360800000000000000
+      internalID: 7167017895483919208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_7
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 957
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ebcd63005061070800000000000000
+      internalID: 8076648480214138387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_8
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 968
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffde5fad847ac1ae0800000000000000
+      internalID: -1577201838133481985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_9
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 930
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2becf3604a78bcd80800000000000000
+      internalID: -8229334755540218190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 739
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1375c628693320800000000000000
+      internalID: 2538174380730686212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 748
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dc53800535dacd0800000000000000
+      internalID: -2545286611194229398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 711
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276bc7fa441dd3f70800000000000000
+      internalID: 9168714509328365170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_13
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 711
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a104d25e1bf83bc80800000000000000
+      internalID: -8308138893351501798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 694
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6971648e587348e0800000000000000
+      internalID: -1710391086127416977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_15
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 694
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0a9d9a69a79fb40800000000000000
+      internalID: 5474541609558843603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_16
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 812
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba36caff8259a1430800000000000000
+      internalID: 3754477242687447979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8636a9b886fc240800000000000000
+      internalID: 4814181475482298620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34346e7872609ef60800000000000000
+      internalID: 8063983374637089603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab3ef8270a9a78d0800000000000000
+      internalID: -2847794458815218779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_20
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b6a0e4691ec130800000000000000
+      internalID: 3588833874117309923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_21
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 599
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9e36a21f0334b10800000000000000
+      internalID: 1964467674820110762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_22
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 599
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4049d37907a0590800000000000000
+      internalID: -7707224017415699262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_23
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 471
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c567f666094a60800000000000000
+      internalID: 7658659680627312672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_24
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 420
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e16bc58fa9985750800000000000000
+      internalID: 6293949458393293289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_25
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 421
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319e09be3baa5110800000000000000
+      internalID: 1250500132429795636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a9a41efa6061040800000000000000
+      internalID: 4617885820383828567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6ac96750c43030800000000000000
+      internalID: 3473612694279056536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 284
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2c379ea55792360800000000000000
+      internalID: 7145371317124186879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_29
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 289
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd9994f4a04e7470800000000000000
+      internalID: 8394217832687705594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_30
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 254
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a20451b6e3e42fc0800000000000000
+      internalID: -3520438428739829084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_31
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 258
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b7b2df0dd1b37c0800000000000000
+      internalID: -4090643053098075325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639d2ddd35b1d3200800000000000000
+      internalID: 161315208673024310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset BEACH_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 33
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00329cb8eef489f00800000000000000
+      internalID: 1123735992994964224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
