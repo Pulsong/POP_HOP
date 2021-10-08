@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -460964615522491061}
   - component: {fileID: 8161644499008809902}
   - component: {fileID: -1654363460389858060}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tykin_kuulaPrefab
   m_TagString: Enemy
   m_Icon: {fileID: 0}

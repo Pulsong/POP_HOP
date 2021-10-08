@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 306963988354332175}
   - component: {fileID: 6522221352615277456}
   - component: {fileID: 377085569741009397}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: TykinKuula
   m_TagString: Enemy
   m_Icon: {fileID: 0}

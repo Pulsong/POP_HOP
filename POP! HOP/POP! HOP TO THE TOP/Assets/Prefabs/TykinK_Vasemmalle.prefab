@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8161644499008809902}
   - component: {fileID: -1654363460389858060}
   - component: {fileID: 5830310379883416886}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: TykinK_Vasemmalle
   m_TagString: Enemy
   m_Icon: {fileID: 0}
