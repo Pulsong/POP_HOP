@@ -6,6 +6,6 @@ PhysicsMaterial2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "T\xE4ysin slipery"
-  friction: 0
-  bounciness: 0.01
+  m_Name: Sieni
+  friction: 20
+  bounciness: 2
