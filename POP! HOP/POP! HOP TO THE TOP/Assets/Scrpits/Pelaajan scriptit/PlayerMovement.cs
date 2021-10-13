@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     // Movement
-    public float movementSpeed;
+    private float movementSpeed;
     public Rigidbody2D rb;
     public float jumpForce = 20f;
     public Transform feet;
@@ -176,7 +176,6 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         Vector2 movement = new Vector2(mx * movementSpeed, rb.velocity.y);
-
         rb.velocity = movement;
     }
 
