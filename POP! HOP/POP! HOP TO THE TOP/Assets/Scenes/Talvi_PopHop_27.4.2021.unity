@@ -8720,6 +8720,122 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &383793917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 383793919}
+  - component: {fileID: 383793918}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &383793918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383793917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf29c1164bdd0294e8cdef721cd4abf3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Hyppy
+    clip: {fileID: 8300000, guid: 4debc8fd185a8064ba7278af9f819d3e, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Hurt
+    clip: {fileID: 8300000, guid: 2cb40ef35dd2e2a4d813546fc02845b0, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: bgm
+    clip: {fileID: 8300000, guid: c9e80bce41e502f4889f7286ae7d5aeb, type: 3}
+    volume: 0.05
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Itemit
+    clip: {fileID: 8300000, guid: 09d2e440ce04c8248b922be6dc6f05a3, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Cannon
+    clip: {fileID: 8300000, guid: 9382b2fe7c8c64443910b6625290a1f4, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Kello2
+    clip: {fileID: 8300000, guid: 9241b421f5a4e0d4bacb240333e6539e, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Jee
+    clip: {fileID: 8300000, guid: c0d08e76db7c2b94bb89718a97d89591, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: "Kent\xE4nVaihto"
+    clip: {fileID: 8300000, guid: f662edc7e633b3a47a6956acee5ccf29, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Sieni
+    clip: {fileID: 8300000, guid: cd65ff46b0120694f967a6568b6b3965, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: EnemyDeath2
+    clip: {fileID: 8300000, guid: 3e28f86ca0b32434ea2a59ba994bbcbe, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Monkey
+    clip: {fileID: 8300000, guid: 6eb9e49a8167b06429d38c8d7e43e3d8, type: 3}
+    volume: 0.4
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Ice
+    clip: {fileID: 8300000, guid: 639693ec185570342b66207a487f2796, type: 3}
+    volume: 0.4
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+--- !u!4 &383793919
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383793917}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &384788637
 GameObject:
   m_ObjectHideFlags: 0
@@ -18398,7 +18514,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.34, y: 0.07}
+  m_Size: {x: 0.35, y: 0.1}
   m_EdgeRadius: 0
 --- !u!1 &760022792
 GameObject:
@@ -46614,7 +46730,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9aa06092e0908a84585e814e7c214a51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MaxArrayCount: 65536
+  m_MaxArrayCount: 3114
   m_PosArray:
   - {x: 27.67991, y: -0.6798935, z: -0.0001}
   - {x: 27.687214, y: -0.67420197, z: -0.0001}
@@ -61102,6 +61218,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1875266722810953953, guid: 82b4d323295a34b429556276715071ac, type: 3}
+  onRange: 0
 --- !u!1 &1332972557
 GameObject:
   m_ObjectHideFlags: 0
@@ -72519,6 +72636,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1875266722810953953, guid: 82b4d323295a34b429556276715071ac, type: 3}
+  onRange: 0
 --- !u!1 &1870938874
 GameObject:
   m_ObjectHideFlags: 0
@@ -73421,7 +73539,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.2504637, y: 1}
+    m_SensorSize: {x: 1.6753247, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -75804,6 +75922,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1875266722810953953, guid: 82b4d323295a34b429556276715071ac, type: 3}
+  onRange: 0
 --- !u!1 &1990205007
 GameObject:
   m_ObjectHideFlags: 0
@@ -78450,6 +78569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1875266722810953953, guid: 82b4d323295a34b429556276715071ac, type: 3}
+  onRange: 0
 --- !u!1 &2118227116
 GameObject:
   m_ObjectHideFlags: 0

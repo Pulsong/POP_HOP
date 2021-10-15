@@ -20,6 +20,7 @@ public class TippuuKunOsuu : MonoBehaviour
             rb.isKinematic = false;
             rb.velocity = new Vector3(0, 0, 0);
             GetComponent<Collider2D>().isTrigger = false;
+            FindObjectOfType<AudioManager>().Play("Ice");
 
         }
     }

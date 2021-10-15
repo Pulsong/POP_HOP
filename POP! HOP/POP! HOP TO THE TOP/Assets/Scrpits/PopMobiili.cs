@@ -23,10 +23,12 @@ public class PopMobiili : MonoBehaviour
             Debug.Log("Colliding with PopAvain and PopMobiili");
             POP_MOBIILI.transform.localScale = new Vector3(0.3f, 0.3f, 0.3f);
             anim.SetBool("OnKutistunut",true);
+            FindObjectOfType<AudioManager>().Play("Jee");
         }
         else
         {
             anim.SetBool("OnKutistunut", false);
         }
+        
     }
 }

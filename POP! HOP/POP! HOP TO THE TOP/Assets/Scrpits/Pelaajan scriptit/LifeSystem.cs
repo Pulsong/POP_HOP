@@ -98,6 +98,7 @@ public class LifeSystem : MonoBehaviour
 
                 }
                 anim.SetTrigger("taking_dmg");
+                FindObjectOfType<AudioManager>().Play("Hurt");
                 if (numOfLeafs < 1)
                 {
                     dead = true;
@@ -114,6 +115,7 @@ public class LifeSystem : MonoBehaviour
 
 
             numOfLeafs += 1;
+            FindObjectOfType<AudioManager>().Play("Itemit");
 
         }
 

@@ -597,6 +597,7 @@ GameObject:
   - component: {fileID: 42609084}
   - component: {fileID: 42609083}
   - component: {fileID: 42609085}
+  - component: {fileID: 42609086}
   m_Layer: 0
   m_Name: Tykki (1)
   m_TagString: Enemy
@@ -617,6 +618,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 8117303977339679706, guid: a1498a49543c037469909132e6058107, type: 3}
+  onRange: 0
 --- !u!4 &42609084
 Transform:
   m_ObjectHideFlags: 0
@@ -660,6 +662,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.96, y: 1.73}
   m_EdgeRadius: 0
+--- !u!58 &42609086
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 42609082}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 15
 --- !u!1 &47326212
 GameObject:
   m_ObjectHideFlags: 0
@@ -4145,7 +4163,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 239259498}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -149.53, y: -64.45, z: 26.897522}
+  m_LocalPosition: {x: -149.53, y: -64.92, z: 26.897522}
   m_LocalScale: {x: 0.059073508, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1968236984}
@@ -5982,7 +6000,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 369834478}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 103.42, y: 43.49, z: 0}
+  m_LocalPosition: {x: 105.17, y: 33.76, z: 0}
   m_LocalScale: {x: 0.505293, y: 0.505293, z: 0.505293}
   m_Children: []
   m_Father: {fileID: 1748734847}
@@ -12458,7 +12476,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.34, y: 0.07}
+  m_Size: {x: 0.35, y: 0.1}
   m_EdgeRadius: 0
 --- !u!1 &770916036
 GameObject:
@@ -12485,7 +12503,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 770916036}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -176.58, y: -80.48, z: 26.897522}
+  m_LocalPosition: {x: -176.58, y: -80.63, z: 26.897522}
   m_LocalScale: {x: 0.09153806, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1968236984}
@@ -15446,6 +15464,7 @@ GameObject:
   - component: {fileID: 859611228}
   - component: {fileID: 859611229}
   - component: {fileID: 859611230}
+  - component: {fileID: 859611231}
   m_Layer: 0
   m_Name: Tykki
   m_TagString: Enemy
@@ -15483,6 +15502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 8117303977339679706, guid: a1498a49543c037469909132e6058107, type: 3}
+  onRange: 0
 --- !u!61 &859611230
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15509,6 +15529,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.15, y: 1.78}
   m_EdgeRadius: 0
+--- !u!58 &859611231
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859611227}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 15
 --- !u!1 &860877183
 GameObject:
   m_ObjectHideFlags: 0
@@ -44474,7 +44510,7 @@ GameObject:
   - component: {fileID: 1107373071}
   m_Layer: 0
   m_Name: Rantavarjo auki
-  m_TagString: Untagged
+  m_TagString: Pumppu
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51868,7 +51904,7 @@ GameObject:
   - component: {fileID: 1465065143}
   m_Layer: 0
   m_Name: Rantavarjo auki (1)
-  m_TagString: Untagged
+  m_TagString: Pumppu
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -60834,6 +60870,7 @@ GameObject:
   - component: {fileID: 1890674975}
   - component: {fileID: 1890674977}
   - component: {fileID: 1890674976}
+  - component: {fileID: 1890674978}
   m_Layer: 0
   m_Name: Tykki (2)
   m_TagString: Enemy
@@ -60897,6 +60934,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 8117303977339679706, guid: a1498a49543c037469909132e6058107, type: 3}
+  onRange: 0
+--- !u!58 &1890674978
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890674974}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 15
 --- !u!1 &1890913119
 GameObject:
   m_ObjectHideFlags: 0
@@ -61075,7 +61129,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 0
-    m_SensorSize: {x: 2.2486086, y: 1}
+    m_SensorSize: {x: 1.6753247, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -64555,11 +64609,61 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: 4debc8fd185a8064ba7278af9f819d3e, type: 3}
     volume: 0.5
     pitch: 1
+    loop: 0
     source: {fileID: 544234775}
   - name: Hurt
     clip: {fileID: 8300000, guid: 2cb40ef35dd2e2a4d813546fc02845b0, type: 3}
     volume: 0.5
     pitch: 1
+    loop: 0
+    source: {fileID: 544234775}
+  - name: bgm
+    clip: {fileID: 8300000, guid: c9e80bce41e502f4889f7286ae7d5aeb, type: 3}
+    volume: 0.05
+    pitch: 1
+    loop: 1
+    source: {fileID: 544234775}
+  - name: Itemit
+    clip: {fileID: 8300000, guid: 09d2e440ce04c8248b922be6dc6f05a3, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 544234775}
+  - name: Cannon
+    clip: {fileID: 8300000, guid: 9382b2fe7c8c64443910b6625290a1f4, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 544234775}
+  - name: Kello2
+    clip: {fileID: 8300000, guid: 9241b421f5a4e0d4bacb240333e6539e, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 544234775}
+  - name: Jee
+    clip: {fileID: 8300000, guid: c0d08e76db7c2b94bb89718a97d89591, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 544234775}
+  - name: "Kent\xE4nVaihto"
+    clip: {fileID: 8300000, guid: f662edc7e633b3a47a6956acee5ccf29, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 544234775}
+  - name: Sieni
+    clip: {fileID: 8300000, guid: cd65ff46b0120694f967a6568b6b3965, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 544234775}
+  - name: EnemyDeath2
+    clip: {fileID: 8300000, guid: 3e28f86ca0b32434ea2a59ba994bbcbe, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
     source: {fileID: 544234775}
 --- !u!4 &2108819722
 Transform:

@@ -31,13 +31,20 @@ public class avaimenGrafiikat : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            if (aiPath.canSearch == false)
+            {
+            FindObjectOfType<AudioManager>().Play("Jee");
+
+            }
             aiPath.canSearch = true;
             OnkoTavannutPop.vaihdaKohdetta = true;
+
         }
         if (collision.gameObject.CompareTag("PopMobiili"))
         {
             aiPath.canSearch = false;
             anim.SetBool("Osunut", true);
+            FindObjectOfType<AudioManager>().Play("Jee");
         }
         else
         {

@@ -22,6 +22,7 @@ public class EnemyHP : MonoBehaviour
     public void TakeDamage(int damage)
     {
         currentHP -= damage;
+        FindObjectOfType<AudioManager>().Play("EnemyDeath2");
     }
 
 }

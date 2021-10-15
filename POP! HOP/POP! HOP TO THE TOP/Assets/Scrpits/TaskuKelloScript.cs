@@ -23,6 +23,7 @@ public class TaskuKelloScript : MonoBehaviour
                hidastaVedenNopeutta.TimerOn = true;
                 hidastaVedenNopeutta.timer = 0;
                 hidastaVedenNopeutta.speed -= 0.9f;
+            FindObjectOfType<AudioManager>().Play("Kello2");
                 Destroy(gameObject);
         }
         }

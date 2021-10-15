@@ -16,13 +16,13 @@ public class AudioManager : MonoBehaviour
         }
         else
         {
-        DontDestroyOnLoad(gameObject);
-
+            Destroy(gameObject);
         }
+        //DontDestroyOnLoad(gameObject);
 
         foreach (Sound s in sounds)
         {
-            //s.source = gameObject.AddComponet<AudioSource>();
+            s.source = gameObject.AddComponent<AudioSource>();
             s.source.clip = s.clip;
 
             s.source.volume = s.volume;
@@ -33,7 +33,7 @@ public class AudioManager : MonoBehaviour
     }
     void Start()
     {
-        Play("Theme");
+        Play("bgm");
     }
 
     public void Play(string name)

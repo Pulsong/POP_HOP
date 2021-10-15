@@ -9,6 +9,7 @@ public class AddLife : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             Destroy(gameObject);
+            
         }
     }
 

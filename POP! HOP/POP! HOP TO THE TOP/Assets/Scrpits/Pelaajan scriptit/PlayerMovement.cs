@@ -133,28 +133,29 @@ public class PlayerMovement : MonoBehaviour
 
         }
 
-        if (Input.GetButtonDown("Jump") && hypyt != 1 && AjastinOn == true)
+        if (Input.GetButtonDown("Jump") && hypyt != 1 && AjastinOn == true) // Sulalla tupla hyppy
         {
             {
 
                 Jump();
                 hypyt++;
+                anim.SetTrigger("jump");
+                FindObjectOfType<AudioManager>().Play("Hyppy");
 
             }
         }
-        else if (Input.GetButtonDown("Jump") && IsGrounded() && AjastinOn == false)
+        else if (Input.GetButtonDown("Jump") && IsGrounded() && AjastinOn == false)     // Normaali hyppäys
         {
             Jump();
+            anim.SetTrigger("jump");
+            FindObjectOfType<AudioManager>().Play("Hyppy");
         }
 
 
 
 
         anim.SetBool("IsGrounded", IsGrounded());
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            anim.SetTrigger("jump");
-        }
+
 
 
 
@@ -226,6 +227,7 @@ public class PlayerMovement : MonoBehaviour
             Ajastin = 0;
 
             SulkaNull =+ 1;
+            FindObjectOfType<AudioManager>().Play("Itemit");
 
 
         }
@@ -235,7 +237,12 @@ public class PlayerMovement : MonoBehaviour
             KilpiAjastin = 0;
 
             KilpiNull =+ 1;
+            FindObjectOfType<AudioManager>().Play("Itemit");
 
+        }
+        if (collision.gameObject.CompareTag("Pumppu"))      // Pumputtavat esineet siehi ja varjot
+        {
+            FindObjectOfType<AudioManager>().Play("Sieni");
         }
 
     }
