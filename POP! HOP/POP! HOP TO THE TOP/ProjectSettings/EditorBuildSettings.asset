@@ -9,13 +9,13 @@ EditorBuildSettings:
     path: Assets/Scenes menut/Menut.unity
     guid: 3c8b552b3ffa8bb4ca9af5cb9fc2475e
   - enabled: 1
-    path: Assets/Scenes/Hiekka_POPHOP.unity
+    path: Assets/Scenes/Sand_Englanti.unity
     guid: 62c53f9f1faa4f14f9df3ab1b63c6a73
   - enabled: 1
-    path: Assets/Scenes/Viidakko_PopHop_27.4.2021.unity
+    path: Assets/Scenes/Swe_Jungle.unity
     guid: 369d9e6959b2b714e85fc7b00c6b8a29
   - enabled: 1
-    path: Assets/Scenes/Talvi_PopHop_27.4.2021.unity
+    path: Assets/Scenes/Eng_Winter.unity
     guid: fedf94130ca6a784886d06fdbb2969b9
   - enabled: 1
     path: Assets/Scenes menut/LoppuScreen.unity

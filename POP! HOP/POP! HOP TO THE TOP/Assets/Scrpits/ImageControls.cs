@@ -11,12 +11,11 @@ public class ImageControls : MonoBehaviour
 
     public GameObject game;
     public GameObject pic;
+    [SerializeField]
+    private AudioManager audioManager;
+    private bool paused;
 
-    // Start is called before the first frame update
-    void Start()
-    {
 
-    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.CompareTag("Player"))
@@ -24,6 +23,10 @@ public class ImageControls : MonoBehaviour
             game.SetActive(false);
             pic.SetActive(true);
             timeOn = true;
+
+            audioManager.Pause("bgm");
+            
+            FindObjectOfType<AudioManager>().Play("Loppu");
         }
     }
     // Update is called once per frame
@@ -38,6 +41,7 @@ public class ImageControls : MonoBehaviour
         if(timer>=picTime)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
         }
     }
 }

@@ -5,18 +5,34 @@ using UnityEngine;
 public class MonkeySound : MonoBehaviour
 {
     [SerializeField] bool OnRangella;
+    [SerializeField]
+    private float MonkeyTimer;
+    bool timerOn = false;
 
     void Start()
     {
-        OnRangella = true;
+        OnRangella = false;
+        MonkeyTimer = 0;
+        
     }
     private void Update()
     {
-        if (OnRangella == false)
+        if (OnRangella == true)
         {
-            Debug.Log("Range  = true");
-            FindObjectOfType<AudioManager>().Play("Monkey");
+            timerOn = true;
         }
+            if(timerOn)
+            {
+            MonkeyTimer += Time.deltaTime;
+
+            if (MonkeyTimer >= 5)
+            {
+            Debug.Log("Range  = true ja timer toimii");
+            FindObjectOfType<AudioManager>().Play("Monkey");
+                MonkeyTimer = 0;
+            }
+            }
+
   
     }
 
@@ -24,6 +40,7 @@ public class MonkeySound : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            FindObjectOfType<AudioManager>().Play("Monkey");
             OnRangella = true;
 
         }
@@ -32,7 +49,15 @@ public class MonkeySound : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            
             OnRangella = false;
+            
+            if (OnRangella == false)
+            {
+                timerOn = false;
+
+            }
+            MonkeyTimer = 0;
         }
         
     }

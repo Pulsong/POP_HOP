@@ -5,20 +5,80 @@ using UnityEngine.SceneManagement;
 
 public class MenuControls : MonoBehaviour
 {
+    public float IntroTimer = 0;
+    public bool IntroStart;
+    public GameObject kuva;
+    public bool StartPicture;
+    private string ValittuMaa;
+    public GameObject audioManager;
+
+    private void Start()
+    {
+        IntroStart = false;
+        kuva.SetActive(false);
+        StartPicture = false;
+    }
+    public void Update()
+    {
+        if (StartPicture == true)
+        {
+        IntroTimer += Time.deltaTime;
+        audioManager.SetActive(false);
+
+        }
+        if (IntroTimer >= 3.5)
+        {
+            IntroStart = true;
+            if (ValittuMaa == "Suomi")
+            {
+                PlayGameSuomi();
+                
+            }
+            if (ValittuMaa == "Ruotsi")
+            {
+                PlayGameRuotsi();
+                
+            }
+            if (ValittuMaa == "Englanti")
+            {
+                PlayGameEnglanti();
+                
+            }
+        }
+    }
+
     //luodaan käsky jolla ladataan haluttu scene jokaiselle kielelle
     public void PlayGameSuomi()
     {
+        ValittuMaa = "Suomi";
+        StartPicture = true;
+        kuva.SetActive(true);
+        if (IntroStart == true)
+        {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        }
     }
 
     public void PlayGameRuotsi()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        ValittuMaa = "Ruotsi";
+        StartPicture = true;
+        kuva.SetActive(true);
+        if (IntroStart == true)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        }
     }
 
     public void PlayGameEnglanti()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        ValittuMaa = "Ruotsi";
+        StartPicture = true;
+        kuva.SetActive(true);
+        if (IntroStart == true)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        }
     }
     //luodaan koodi jolla sovelluksen käyttö lopetetaan
     public void QuitGame()
