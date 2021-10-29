@@ -18,7 +18,7 @@ public class KylttiPause : MonoBehaviour
     {
         kylttiRef.IsoKyltti.SetActive(false);   // Pistää Ison kyltin pois käytön jälkeen.
         Time.timeScale = 1f;
-        kylttiRef.Paperi.SetActive(false);      // Pistää kyltin pois käytön jälkeen
+        kylttiRef.SuomiPaperi.SetActive(false);      // Pistää kyltin pois käytön jälkeen
     }
    public void Pause()
     {

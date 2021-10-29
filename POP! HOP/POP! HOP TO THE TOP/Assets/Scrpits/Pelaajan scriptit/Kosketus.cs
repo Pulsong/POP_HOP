@@ -28,6 +28,7 @@ public class Kosketus : MonoBehaviour
     public void PlayerJump()
     {
         player.playerjump = true;
+        
     }
     public void ReleasePlayerJump()
     {

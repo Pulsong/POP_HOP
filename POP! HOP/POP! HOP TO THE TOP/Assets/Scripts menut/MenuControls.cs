@@ -9,7 +9,7 @@ public class MenuControls : MonoBehaviour
     public bool IntroStart;
     public GameObject kuva;
     public bool StartPicture;
-    private string ValittuMaa;
+    public static string ValittuMaa;
     public GameObject audioManager;
 
     private void Start()
@@ -26,7 +26,7 @@ public class MenuControls : MonoBehaviour
         audioManager.SetActive(false);
 
         }
-        if (IntroTimer >= 3.5)
+        if (IntroTimer >= 2.5)
         {
             IntroStart = true;
             if (ValittuMaa == "Suomi")
@@ -55,7 +55,7 @@ public class MenuControls : MonoBehaviour
         kuva.SetActive(true);
         if (IntroStart == true)
         {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(1);
         }
     }
 
@@ -66,18 +66,18 @@ public class MenuControls : MonoBehaviour
         kuva.SetActive(true);
         if (IntroStart == true)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            SceneManager.LoadScene(1);
         }
     }
 
     public void PlayGameEnglanti()
     {
-        ValittuMaa = "Ruotsi";
+        ValittuMaa = "Englanti";
         StartPicture = true;
         kuva.SetActive(true);
         if (IntroStart == true)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            SceneManager.LoadScene(1);
         }
     }
     //luodaan koodi jolla sovelluksen käyttö lopetetaan

@@ -9,17 +9,23 @@ EditorBuildSettings:
     path: Assets/Scenes menut/Menut.unity
     guid: 3c8b552b3ffa8bb4ca9af5cb9fc2475e
   - enabled: 1
-    path: Assets/Scenes/Sand_Englanti.unity
-    guid: 62c53f9f1faa4f14f9df3ab1b63c6a73
+    path: Assets/Scenes/Hiekka_Po.unity
+    guid: 0900dd53508998141a76ba073d7fe13f
   - enabled: 1
-    path: Assets/Scenes/Swe_Jungle.unity
-    guid: 369d9e6959b2b714e85fc7b00c6b8a29
+    path: Assets/Scenes/Viidakko_Po.unity
+    guid: 9226550d446d6914186b7f76650b6fbe
   - enabled: 1
-    path: Assets/Scenes/Eng_Winter.unity
-    guid: fedf94130ca6a784886d06fdbb2969b9
+    path: Assets/Scenes/Talvi_Po.unity
+    guid: 25224429e8280b449b6ad32d5810d4e7
   - enabled: 1
     path: Assets/Scenes menut/LoppuScreen.unity
     guid: 7c0d76dfb2c603443bf9e42beb99e590
+  - enabled: 1
+    path: "Assets/Scenes menut/\xD6verScreen.unity"
+    guid: 9c7f3404134ed524a83002fd47496b67
+  - enabled: 1
+    path: Assets/Scenes menut/EndScreen.unity
+    guid: c85014982c96645438a624ecfcea92bf
   - enabled: 1
     path: "Assets/Scenes menut/H\xE4vi\xF6Screen.unity"
     guid: 2cda990e2423bbf4892e6590ba056729

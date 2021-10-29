@@ -69,12 +69,20 @@ public class LifeSystem : MonoBehaviour
             }
         }
 
-        if (dead == true)
+        if (dead == true && MenuControls.ValittuMaa == "Suomi")
         {
 
             //sceneNum = SceneManager.GetActiveScene().buildIndex;
+            SceneManager.LoadScene(7);
+
+        }
+        else if (dead == true && MenuControls.ValittuMaa == "Ruotsi")
+        {
             SceneManager.LoadScene(5);
- 
+        }
+        else if (dead == true && MenuControls.ValittuMaa == "Englanti")
+        {
+            SceneManager.LoadScene(6);
         }
     }
     

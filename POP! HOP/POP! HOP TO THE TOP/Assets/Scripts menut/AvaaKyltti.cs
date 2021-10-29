@@ -5,7 +5,9 @@ using UnityEngine;
 public class AvaaKyltti : MonoBehaviour
 {
     // Papereista pit‰‰ tehd‰ taulukko, joka m‰‰ritt‰‰, mik‰ paperi/paperit n‰ytet‰‰n kyseisen kyltin kohdalla.
-    public GameObject Paperi;
+    public GameObject SuomiPaperi;
+    public GameObject RuotsiPaperi;
+    public GameObject EnglantiPaperi;
     public GameObject IsoKyltti;
 
 
@@ -37,8 +39,18 @@ public class AvaaKyltti : MonoBehaviour
         if (collision.gameObject.CompareTag("Player") && timer == 0)
         {
             KosketusOn = true;
-
-            Paperi.SetActive(true);     // Pist‰‰ kyseisen paperin n‰kyv‰ksi
+            if (MenuControls.ValittuMaa == "Suomi")
+            {
+            SuomiPaperi.SetActive(true);     // Pist‰‰ kyseisen paperin n‰kyv‰ksi
+            }
+            else if (MenuControls.ValittuMaa == "Ruotsi")
+            {
+                RuotsiPaperi.SetActive(true);
+            }
+            else if (MenuControls.ValittuMaa == "Englanti")
+            {
+                EnglantiPaperi.SetActive(true);
+            }
 
             //KylttiPause.Pause();
             Avaus.Pause();

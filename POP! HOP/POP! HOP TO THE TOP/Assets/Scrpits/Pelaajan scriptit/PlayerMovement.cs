@@ -70,15 +70,17 @@ public class PlayerMovement : MonoBehaviour
 
         if (moveright == true)
         {
-            transform.Translate(Vector2.right * movementSpeed * Time.deltaTime);
-
-            transform.localScale = new Vector3(2f, 2f, 1f);
+            mx = 1;
+            // vanha seinärunkkaus koodi
+            //transform.Translate(Vector2.right * movementSpeed * Time.deltaTime);
+            //transform.localScale = new Vector3(2f, 2f, 1f);
         }
         if (moveleft == true)
         {
-            transform.Translate(-Vector2.right * movementSpeed * Time.deltaTime);
-
-            transform.localScale = new Vector3(-2f, 2f, 1f);
+            mx = -1;
+            // vanha seinärunkkauskoodi
+            //transform.Translate(-Vector2.right * movementSpeed * Time.deltaTime);
+            //transform.localScale = new Vector3(-2f, 2f, 1f);
 
         }
         if (playerjump && hypyt != 1 && AjastinOn == true)
@@ -88,6 +90,7 @@ public class PlayerMovement : MonoBehaviour
                 Jump();
                 playerjump = false;
                 hypyt++;
+                
 
             }
         }
@@ -183,7 +186,7 @@ public class PlayerMovement : MonoBehaviour
     void Jump()
     {
         Vector2 movement = new Vector2(rb.velocity.x, jumpForce);
-
+        FindObjectOfType<AudioManager>().Play("Hyppy");
         rb.velocity = movement;
 
     }
